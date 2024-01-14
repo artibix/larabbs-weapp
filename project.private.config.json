@@ -3,5 +3,6 @@
   "setting": {
     "compileHotReLoad": true,
     "urlCheck": true
-  }
+  },
+  "libVersion": "3.3.0"
 }
