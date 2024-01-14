@@ -1,0 +1,7 @@
+{
+  "projectname": "larabbs-weapp",
+  "setting": {
+    "compileHotReLoad": true,
+    "urlCheck": true
+  }
+}
